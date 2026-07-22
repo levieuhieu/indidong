@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">indidong</string>
+
+    <!-- Screen Titles -->
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_image">In Ảnh</string>
+    <string name="title_pdf">In PDF</string>
+    <string name="title_word">In Word</string>
+    <string name="title_excel">In Excel</string>
+    <string name="title_web">In Website</string>
+    <string name="title_printer">Máy In</string>
+    <string name="title_settings">Cài Đặt</string>
+
+    <!-- Common Actions -->
+    <string name="action_back">Quay Lại</string>
+    <string name="action_print">In</string>
+    <string name="action_preview">Xem Trước</string>
+    <string name="action_select">Chọn</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_save">Lưu</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_edit">Chỉnh Sửa</string>
+
+    <!-- Messages -->
+    <string name="message_select_file">Vui lòng chọn một tệp</string>
+    <string name="message_print_success">In thành công</string>
+    <string name="message_print_error">Lỗi khi in</string>
+    <string name="message_no_printer">Không tìm thấy máy in</string>
+</resources>
